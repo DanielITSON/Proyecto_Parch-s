@@ -1,0 +1,11 @@
+Observador\Observador.class
+Observador\TipoEvento.class
+controlador\ControladorAplicacion.class
+Observador\SoporteObservable.class
+vista\VistaConsola.class
+modelo\Sala.class
+modelo\Vestibulo.class
+Observador\Evento.class
+com\mycompany\proyectoparchis\ProyectoParchis.class
+modelo\Jugador.class
+modelo\ColorFicha.class
